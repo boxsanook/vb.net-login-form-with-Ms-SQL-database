@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\bin\Debug\vb.net login form with Ms SQL database.exe.config
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\obj\Debug\vb.net login form with Ms SQL database.vbprojResolveAssemblyReference.cache
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\obj\Debug\vb.net_login_form_with_Ms_SQL_database.FRM_Login.resources
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\obj\Debug\vb.net_login_form_with_Ms_SQL_database.Resources.resources
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\obj\Debug\vb.net login form with Ms SQL database.vbproj.GenerateResource.Cache
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\obj\Debug\vb.net login form with Ms SQL database.xml
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\bin\Debug\vb.net login form with Ms SQL database.exe
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\bin\Debug\vb.net login form with Ms SQL database.pdb
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\bin\Debug\vb.net login form with Ms SQL database.xml
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\obj\Debug\vb.net login form with Ms SQL database.exe
+c:\Users\asus\Documents\Visual Studio 2015\Projects\vb.net login form with Ms SQL database\vb.net login form with Ms SQL database\obj\Debug\vb.net login form with Ms SQL database.pdb
